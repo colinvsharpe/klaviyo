@@ -1,0 +1,35 @@
+[
+  {
+    "id":"hydrogel-cream",
+    "title":"HYDROGEL CREAM",
+    "link":"https://www.honest.com/beauty-products/skincare/hydrogel-cream/B01S0900V3FLS.html",
+    "description":"The cooling, Hyaluronic Acid infused face cream your thirsty skin craves. Made with Squalane, Jojoba Esters, and 2 sizes of Hyaluronic Acid. Works for all skin types.",
+    "price":17.99,
+    "image_link":"https://www.honest.com/dw/image/v2/BDBW_PRD/on/demandware.static/-/Sites-HC-master-catalog/default/dwbe75ab74/images/large/Hydrogel-Cream/BeautyRestageHydrogelCream/hydrogelonwater.jpg?sw=2000&sh=2000&sm=fit",
+    "categories":["skincare","beauty","new-arrival","cream"],
+    "inventory_quantity":255,
+    "inventory_policy":1
+  },
+    {
+    "id":"CALM-ON-FOAMING-CREAM-CLEANSER",
+    "title":"CALM ON FOAMING CREAM CLEANSER",
+    "link":"https://www.honest.com/beauty-products/skincare/calm-on-foaming-cream-cleanser/B01S1300V2FLS.html",
+    "description":"A gentle foaming cleanser specially designed to clean, soothe, and calm sensitive skin. Made with Calming Phyto-Blend™ + Amino Acids. Works for all skin types.",
+    "price":17.99,
+    "image_link":"https://www.honest.com/dw/image/v2/BDBW_PRD/on/demandware.static/-/Sites-HC-master-catalog/default/dw5c006c06/images/large/Calm-on-foaming-cleanser/BeautyRestage-CalmOnCleanser/benefit.jpg?sw=2000&sh=2000&sm=fit",
+    "categories":["skincare","beauty","new-arrival","cream"],
+    "inventory_quantity":325,
+    "inventory_policy":1
+  },
+    {
+    "id":"ELEVATED-HYDRATION-MIST",
+    "title":"ELEVATED HYDRATION MIST",
+    "link":"https://www.honest.com/beauty-products/skincare/elevated-hydration-mist/B0000HRMV4FLS.html",
+    "description":"A Hyaluronic Acid infused mist that quenches your skin and soothes your senses thanks to a relaxing botanical scent. Made with 2 types of Hyaluronic Acid. Works for all skin types.",
+    "price":17.99,
+    "image_link":"https://www.honest.com/dw/image/v2/BDBW_PRD/on/demandware.static/-/Sites-HC-master-catalog/default/dw3812529a/images/large/Elevated-Hydration-Mist/BeautyRestageElevatedHydrationMist/ingredient.jpg?sw=2000&sh=2000&sm=fit",
+    "categories":["skincare","beauty","new-arrival","cream"],
+    "inventory_quantity":120,
+    "inventory_policy":1
+  }
+]

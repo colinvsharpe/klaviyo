@@ -1,0 +1,35 @@
+[
+  {
+    "id":"cozy-cocoa",
+    "title":"COZY COCOA GOOD NIGHT™ NUTRITION SHAKE",
+    "link":"https://www.premierprotein.com/products/cozy-cocoa-good-night",
+    "description":"Hot or cold, this rich, chocolaty bedtime drink will take you to a better place. And the soothing blend of calming nutrients doesn’t hurt either.",
+    "price":10,
+    "image_link":"https://premierprotein.imgix.net/p/a/products/product-cozy-cocoa-b@2x.png?auto=format%2Ccompress&fit=crop&h=417&ixlib=php-3.1.0&step=100&s=09c41788dad66b5290c73ef3ca445dd8",
+    "categories":["protein","good-night","new-arrival","sleep"],
+    "inventory_quantity":255,
+    "inventory_policy":1
+  },
+  {
+    "id":"dreamy-vanilla",
+    "title":"DREAMY VANILLA GOOD NIGHT™ NUTRITION SHAKE",
+    "link":"https://www.premierprotein.com/products/dreamy-vanilla-good-night",
+    "description":"This silky-smooth and oh-so-comforting bedtime drink is anything but “vanilla.” Some like it hot. And some like it straight from the fridge.",
+    "price":10,
+    "image_link":"https://premierprotein.imgix.net/p/a/products/product-dreamy-vanilla-b@2x.png?auto=format%2Ccompress&fit=crop&h=417&ixlib=php-3.1.0&step=100&s=3515eb71615bd5333e1afda45a93fa2e",
+    "categories":["protein","vanilla","new-arrival","sleep","good night"],
+    "inventory_quantity":303,
+    "inventory_policy":1
+  },
+  {
+    "id":"caramel-bliss",
+    "title":"CARAMEL BLISS GOOD NIGHT™ NUTRITION SHAKE",
+    "link":"https://www.premierprotein.com/products/caramel-bliss-good-night",
+    "description":"Hey there, caramel fans. Your favorite flavor in a rich, calming, comforting bedtime drink. Hot or cold, it will definitely hit the (sweet) spot.",
+    "price":10,
+    "image_link":"https://premierprotein.imgix.net/p/a/products/product-caramel-bliss-b@2x.png?auto=format%2Ccompress&fit=crop&h=417&ixlib=php-3.1.0&step=100&s=d545c2ec014b22da754b15848c651841",
+    "categories":["protein","caramel","new-arrival","sleep","good night"],
+    "inventory_quantity":454,
+    "inventory_policy":1
+  }
+]
